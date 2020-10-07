@@ -8,4 +8,8 @@ the local system...
    cd git
    git clone https://github.com/bostonannex/git-collab-class
 
+git branch my_branch
+
+creates a new branch at the head called my_branch
+
 
